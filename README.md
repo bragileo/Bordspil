@@ -138,6 +138,6 @@ leikhringur()
 
 [box að innan 2](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2906.HEIC)
 
-[Vídeó af virkni, klippt til þess að uppfylla lengdartakmörk](https://github.com/bragileo/Bordspil/blob/main/myndir/myndband-virkni.mp4)
+[Vídeó af virkni, (klippt til þess að uppfylla stærðartakmörk á vídeói (aðeins 25MB))](https://github.com/bragileo/Bordspil/blob/main/myndir/myndband-virkni.mp4)
 
 
