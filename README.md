@@ -8,7 +8,7 @@ Whack a mole
 
 Það eru 6 takkar á spjaldi. það kvikna ljós á einum af handahófi og þú átt að reyna að slá hann. Fyrir það fæst eitt stig og mun þetta vera í hringrás í heila mínútu. Markmiðið er að ná sem flestum stigum, maður verður samt að passa sig, því ef slegið er í óupplýstann takka fæst mínus stig! Þú ýtir á bláa takkan til þess að byrja.
 
-[Vector skrá fyrir box](https://github.com/bragileo/Bordspil/blob/main/myndir/bordspil.svg)
+![Vector skrá fyrir box](https://github.com/bragileo/Bordspil/blob/main/myndir/bordspil.svg)
 
 
 
@@ -128,4 +128,14 @@ leikhringur()
 ```
 
 
-[texti](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2905.HEIC)
+[lóðun](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2905.HEIC)
+
+[box að utan](https://https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2911.HEIC)
+
+[box að innan 1](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2913.HEIC)
+
+[box að innan 2](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2906.HEIC)
+
+[Vídeó af virkni, klippt til þess að uppfylla lengdartakmörk](https://github.com/bragileo/Bordspil/blob/main/myndir/myndband-virkni.mp4)
+
+
