@@ -126,3 +126,6 @@ def leikhringur():
 
 leikhringur()
 ```
+
+
+[texti](https://github.com/bragileo/Bordspil/blob/main/myndir/IMG_2905.HEIC)
